@@ -16,10 +16,38 @@ When you would like to submit a Sketch file for others to review, please submit 
 - Major Folder (Ex/ HeaderFooter, Ballot, DesignSystem-StyleGuide)
 - Sketch File Name Base (Ex/ HeaderFooter, OfficeListCard, OfficeDetail)
 - Date in YYYYMMDD format (Ex/ 20181229)
-- Your initials (Ex/ djm)
+- Your first name plus last initial (Ex/ DaleM)
 - Version number or description (Ex/ v2a, WithImages2)
 
 These are some examples of fully assembled names:
 
-- In folder HeaderFooter, HeaderFooter-20181229-djm-v1.sketch
-- In folder Ballot, MeasureDetail-20181229-djm-WithShortDescriptions.sketch
+- In folder HeaderFooter, HeaderFooter-20181229-DaleM-v1.sketch
+- In folder Ballot, MeasureDetail-20181229-DaleM-WithShortDescriptions.sketch
+
+## Old Versions of Files
+When you have a new version of a Sketch file that you are managing, move the old version into the "_OldVersions" folder.
+
+## Bring DesignInventory Files to your Local Machine
+
+[Create an account on GitHub](https://github.com/join) if you don't already have an account. Sign into GitHub.
+
+Create a fork of wevote/DesignInventory.git. You can do this from https://github.com/wevote/DesignInventory with the "Fork" button  
+(upper right of screen)
+
+Install this [GitHub Desktop application](https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/) on your machine. They have options for Mac and Windows.
+
+In GitHub Desktop, choose "Clone a Repository".
+
+![ScreenShot](docs/images/CloneARepository.png)
+
+Do the following in the Popup box:
+
+1. Select from "Your Repositories": `<YOUR GITHUB USERNAME HERE>/DesignInventory`
+
+1. Set the Local Path where you want the files to `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`
+
+1. Click "Clone"
+
+![ScreenShot](docs/images/CloneARepositoryPopup.png)
+
+
