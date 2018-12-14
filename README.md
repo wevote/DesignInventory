@@ -16,13 +16,16 @@ When you would like to submit a Sketch file for others to review, please submit 
 - Major Folder (Ex/ HeaderFooter, Ballot, DesignSystem-StyleGuide)
 - Sketch File Name Base (Ex/ HeaderFooter, OfficeListCard, OfficeDetail)
 - Date in YYYYMMDD format (Ex/ 20181229)
-- Your initials (Ex/ djm)
+- Your first name plus last initial (Ex/ DaleM)
 - Version number or description (Ex/ v2a, WithImages2)
 
 These are some examples of fully assembled names:
 
-- In folder HeaderFooter, HeaderFooter-20181229-djm-v1.sketch
-- In folder Ballot, MeasureDetail-20181229-djm-WithShortDescriptions.sketch
+- In folder HeaderFooter, HeaderFooter-20181229-DaleM-v1.sketch
+- In folder Ballot, MeasureDetail-20181229-DaleM-WithShortDescriptions.sketch
+
+## Old Versions of Files
+When you have a new version of a Sketch file that you are managing, move the old version into the "_OldVersions" folder.
 
 ## Bring DesignInventory Files to your Local Machine
 
