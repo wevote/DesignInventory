@@ -3,6 +3,9 @@ Designs for We Vote, including the latest and historical assets. This is where w
 
 This is our [index of current design efforts](https://docs.google.com/spreadsheets/d/1Pi1SRrniuKOdbRWQgWWIxAyddkrLl73nn21wAhvblUw/edit).
 
+## We Vote Strategic Redesign: Introduction
+Want to get up-to-speed on the design of We Vote? See [We Vote Design Orientation](docs/DESIGN_ORIENTATION.md)
+
 ## Asset Organization
 The designs we are working on are organized in folders within this repository dedicated to major design areas, like HeaderFooter, Ballot, UserNudging. Each folder contains:
 
