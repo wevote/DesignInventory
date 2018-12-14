@@ -33,11 +33,18 @@ Create a fork of wevote/DesignInventory.git. You can do this from https://github
 
 Install this [GitHub Desktop application](https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/) on your machine. They have options for Mac and Windows.
 
-In GitHub Desktop, choose "Clone a Repository". Do the following in the Popup box:
+In GitHub Desktop, choose "Clone a Repository".
+
+![ScreenShot](docs/images/CloneARepository.png)
+
+Do the following in the Popup box:
 
 1. Select from "Your Repositories": `<YOUR GITHUB USERNAME HERE>/DesignInventory`
 
 1. Set the Local Path where you want the files to `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`
 
 1. Click "Clone"
+
+![ScreenShot](docs/images/CloneARepositoryPopup.png)
+
 
