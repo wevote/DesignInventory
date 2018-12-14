@@ -1,7 +1,7 @@
 # DesignInventory
 Designs for We Vote, including the latest and historical assets. This is where we submit (and archive) designs for We Vote.
 
-This is our <a href="https://docs.google.com/spreadsheets/d/1Pi1SRrniuKOdbRWQgWWIxAyddkrLl73nn21wAhvblUw/edit" target="_blank">index of current design efforts</a>.
+This is our [index of current design efforts](https://docs.google.com/spreadsheets/d/1Pi1SRrniuKOdbRWQgWWIxAyddkrLl73nn21wAhvblUw/edit).
 
 ## Asset Organization
 The designs we are working on are organized in folders within this repository dedicated to major design areas, like HeaderFooter, Ballot, UserNudging. Each folder contains:
