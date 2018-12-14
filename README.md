@@ -23,3 +23,14 @@ These are some examples of fully assembled names:
 
 - In folder HeaderFooter, HeaderFooter-20181229-djm-v1.sketch
 - In folder Ballot, MeasureDetail-20181229-djm-WithShortDescriptions.sketch
+
+## Bring DesignInventory Files to your Local Machine
+
+[Create an account on GitHub](https://github.com/join) if you don't already have an account. Sign into GitHub.
+
+Create a fork of wevote/DesignInventory.git. You can do this from https://github.com/wevote/DesignInventory with the "Fork" button  
+(upper right of screen)
+
+Install this [GitHub Desktop application](https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/) on your machine. They have options for Mac and Windows.
+
+In GitHub Desktop, 
