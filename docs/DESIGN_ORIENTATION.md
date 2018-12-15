@@ -3,8 +3,10 @@
 ## Existing Beta Site
 You can view the live site here: https://WeVote.US
 
-## Mood Boards
-https://www.notion.so/wevote/Mood-Boards-3ccb09b449264d18af2db3485880ee24
+## Partisan Mood Boards & Lexicon
+Mood boards: https://www.notion.so/wevote/Mood-Boards-3ccb09b449264d18af2db3485880ee24
+
+Language/Lexicon: https://www.notion.so/wevote/Lexicon-374ae33088a749f9914096189b1032b5
 
 ## We Vote Screen Flow
 This document shows an [overview of all pages within We Vote](https://docs.google.com/presentation/d/1aZsNtiaEEYIkUnSfmzOBpGQCWMCptmTZ-NpAAg2jkWk/edit).
