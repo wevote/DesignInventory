@@ -1,7 +1,9 @@
 # DesignInventory
-Designs for We Vote, including the latest and historical assets. This is where we submit (and archive) designs for We Vote.
+This respository contains designs for We Vote, including the latest and historical assets. This is where we submit (and archive) designs for We Vote.
 
 This is our [index of current design efforts](https://docs.google.com/spreadsheets/d/1Pi1SRrniuKOdbRWQgWWIxAyddkrLl73nn21wAhvblUw/edit).
+
+We have a Google Drive master folder for all things design related. ([link to Google Drive Design Folder](https://drive.google.com/drive/u/0/folders/0BwSkwvLXQCocQlhhVzF2U2FfZXc)) This DesignInventory repo is stored inside our Google Drive Design Folder. Feel free to request access to the Google Drive Design Folder.
 
 ## We Vote Strategic Redesign: Introduction
 Want to get up-to-speed on the design of We Vote? See [We Vote Design Orientation](docs/DESIGN_ORIENTATION.md)
