@@ -3,7 +3,14 @@ This respository contains designs for We Vote, including the latest and historic
 
 This is our [index of current design efforts](https://docs.google.com/spreadsheets/d/1Pi1SRrniuKOdbRWQgWWIxAyddkrLl73nn21wAhvblUw/edit).
 
-We have a Google Drive master folder for all things design related. ([link to Google Drive Design Folder](https://drive.google.com/drive/u/0/folders/0BwSkwvLXQCocQlhhVzF2U2FfZXc)) This DesignInventory repo is stored inside our Google Drive Design Folder. Feel free to request access to the Google Drive Design Folder.
+We have a Google Drive master folder for all things design related. Feel free to request access to the Google Drive Design Folder. ([link to Google Drive Design Folder](https://drive.google.com/drive/u/0/folders/0BwSkwvLXQCocQlhhVzF2U2FfZXc)) We store a copy of this DesignInventory repo inside our Google Drive Design Folder (Dale McGrew synchronizes the DesignInventory folder with Github). 
+
+## Submitting Design Files to We Vote
+There are two ways to submit new designs to We Vote.
+
+1. Place your new design file, with a unique name (described in "Asset File Naming Standards") below, into the DesignInventory folder via Google Drive. For example, designs related to Ballot Measures, would go in the We Vote design Google Drive folder, in the subfolder: "DesignInventory/Ballot/Measures" Dale McGrew will periodically commit these files into Github.
+
+1. Bring a copy of the DesignInventory Files to your Local Machine via Github, using the directions below. Then check in your new design file, with a unique name (described in "Asset File Naming Standards") below.
 
 ## We Vote Strategic Redesign: Introduction
 Want to get up-to-speed on the design of We Vote? See [We Vote Design Orientation](docs/DESIGN_ORIENTATION.md)
@@ -32,7 +39,7 @@ These are some examples of fully assembled names:
 ## Old Versions of Files
 When you have a new version of a Sketch file that you are managing, move the old version into the "_OldVersions" folder.
 
-## Bring DesignInventory Files to your Local Machine
+## Bring DesignInventory Files to your Local Machine via Github
 
 [Create an account on GitHub](https://github.com/join) if you don't already have an account. Sign into GitHub.
 
@@ -49,7 +56,7 @@ Do the following in the Popup box:
 
 1. Select from "Your Repositories": `<YOUR GITHUB USERNAME HERE>/DesignInventory`
 
-1. Set the Local Path where you want the files to `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`
+1. Set the Local Path where you want the files to `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`. Please do not try to clone this repository into the master/shared Design Team Folder -- you should clone this repository to a personal folder that is not shared with the rest of the We Vote team.
 
 1. Click "Clone"
 
