@@ -12,6 +12,9 @@ There are two ways to submit new designs to We Vote.
 
 1. Bring a copy of the DesignInventory Files to your Local Machine via Github, using the directions below. Then check in your new design file, with a unique name (described in "Asset File Naming Standards") below.
 
+## Can I view existing Sketch files without downloading the Sketch application?
+Yes. Once you have downloaded the latest Sketch files to your computer (via Google Drive or Github), you can upload Sketch files into this free website service to view them: https://sketchviewer.com/
+
 ## We Vote Strategic Redesign: Introduction
 Want to get up-to-speed on the design of We Vote? See [We Vote Design Orientation](docs/DESIGN_ORIENTATION.md)
 
@@ -61,5 +64,4 @@ Do the following in the Popup box:
 1. Click "Clone"
 
 ![ScreenShot](docs/images/CloneARepositoryPopup.png)
-
 
