@@ -76,14 +76,16 @@ There are 2 ways you can clone a repo in the Popup box.
 
 1. Go to the DesignInventory GitHub homepage.
 
-2. On the right hand side of the page, there is a green button that says "Clone or download". Click that and copy the URL that pops up (make sure it's HTTPS, **not** SSH).
+2. In the upper right hand side of the page (third button) click "Fork", then within the popup go to your own GitHub account: `<YOUR GITHUB USERNAME HERE>/DesignInventory`.
+
+3. Once on your own GitHub account page, on the right hand side there is a green button that says "Clone or download". Click that and copy the URL that pops up (make sure it's HTTPS, **not** SSH).
 
 ![image](https://user-images.githubusercontent.com/38788967/50496041-327ced00-09fb-11e9-94c1-2bf97acd6b51.png)
 
-3. Go to your GitHub Desktop app, choose "Clone a Repository", click the URL option all the way to the right.
+4. Go to your GitHub Desktop app, choose "Clone a Repository", click the URL option all the way to the right.
 
 ![image](https://user-images.githubusercontent.com/38788967/50496052-43c5f980-09fb-11e9-8010-5c59ab407049.png)
 
-4. In the first box where it says "URL or username/repository", paste the URL you just copied from the DesignInventory GitHub homepage. Then set the Local Path where you want the files to go `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`. Again, please do not try to clone this repository into the master/shared Design Team Folder -- you should clone this repository to a personal folder that is not shared with the rest of the We Vote team.
+5. In the first box where it says "URL or username/repository", paste the URL you just copied from the DesignInventory GitHub homepage. Then set the Local Path where you want the files to go `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`. Again, please do not try to clone this repository into the master/shared Design Team Folder -- you should clone this repository to a personal folder that is not shared with the rest of the We Vote team.
 
-5. Click "Clone".
+6. Click "Clone".
