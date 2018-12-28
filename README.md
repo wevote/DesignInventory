@@ -26,7 +26,7 @@ The designs we are working on are organized in folders within this repository de
 - Image files (png, jpg, etc.) showing design snapshots we want to review as a team
 
 ## Asset File Naming Standards
-When you would like to submit a Sketch file for others to review, please submit those changes in a file that you control. Our standard is that each Sketch file should ever only have one person editing it. If you want to modify someone's design, please make a copy of that file and update the filename per these standards:
+When you would like to submit a Sketch file for others to review, please submit those changes in a file that you control. Our standard is that each Sketch file should ever only have one person editing it. If you want to modify someone's design, please make a copy of that file... i.e.: download the file onto your local machine, copy it, and update the filename per these standards:
 
 - Major Folder (Ex/ HeaderFooter, Ballot, DesignSystem-StyleGuide)
 - Sketch File Name Base (Ex/ HeaderFooter, OfficeListCard, OfficeDetail)
@@ -55,13 +55,35 @@ In GitHub Desktop, choose "Clone a Repository".
 
 ![ScreenShot](docs/images/CloneARepository.png)
 
-Do the following in the Popup box:
+
+There are 2 ways you can clone a repo in the Popup box.
+
+
+**First:**
 
 1. Select from "Your Repositories": `<YOUR GITHUB USERNAME HERE>/DesignInventory`
 
-1. Set the Local Path where you want the files to `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`. Please do not try to clone this repository into the master/shared Design Team Folder -- you should clone this repository to a personal folder that is not shared with the rest of the We Vote team.
+2. Set the Local Path where you want the files to go `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`. Please do not try to clone this repository into the master/shared Design Team Folder -- you should clone this repository to a personal folder that is not shared with the rest of the We Vote team.
 
-1. Click "Clone"
+3. Click "Clone"
 
 ![ScreenShot](docs/images/CloneARepositoryPopup.png)
 
+
+
+**Second:**
+
+
+1. Go to the DesignInventory GitHub homepage.
+
+2. On the right hand side of the page, there is a green button that says "Clone or download". Click that and copy the URL that pops up (make sure it's HTTPS, **not** SSH).
+
+![image](https://user-images.githubusercontent.com/38788967/50496041-327ced00-09fb-11e9-94c1-2bf97acd6b51.png)
+
+3. Go to your GitHub Desktop app, choose "Clone a Repository", click the URL option all the way to the right.
+
+![image](https://user-images.githubusercontent.com/38788967/50496052-43c5f980-09fb-11e9-8010-5c59ab407049.png)
+
+4. In the first box where it says "URL or username/repository", paste the URL you just copied from the DesignInventory GitHub homepage. Then set the Local Path where you want the files to go `/Users/<YOUR NAME HERE>/MyProjects/DesignInventory`. Again, please do not try to clone this repository into the master/shared Design Team Folder -- you should clone this repository to a personal folder that is not shared with the rest of the We Vote team.
+
+5. Click "Clone".
