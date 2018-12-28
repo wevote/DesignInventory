@@ -73,8 +73,7 @@ There are 2 ways you can clone a repo in the Popup box.
 
 **Second:**
 
-
-1. Go to the DesignInventory GitHub homepage.
+1. Go to the DesignInventory GitHub homepage: `https://github.com/wevote/DesignInventory`
 
 2. In the upper right hand side of the page (third button) click "Fork", then within the popup go to your own GitHub account: `<YOUR GITHUB USERNAME HERE>/DesignInventory`.
 
