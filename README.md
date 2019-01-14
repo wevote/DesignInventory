@@ -1,5 +1,5 @@
 # DesignInventory
-This respository contains designs for We Vote, including the latest and historical assets. This is where we submit (and archive) designs for We Vote.
+This repository contains designs for We Vote, including the latest and historical assets. This is where we submit (and archive) designs for We Vote.
 
 This is our [index of current design efforts](https://docs.google.com/spreadsheets/d/1Pi1SRrniuKOdbRWQgWWIxAyddkrLl73nn21wAhvblUw/edit).
 
