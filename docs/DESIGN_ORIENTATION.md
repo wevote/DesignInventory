@@ -1,7 +1,9 @@
 # We Vote Design Orientation
 
 ## Existing Beta Site
-You can view the live site here: https://WeVote.US
+You can view our latest testing version on our development server here: https://quality.WeVote.US
+
+...and the live site here: https://WeVote.US
 
 ## Partisan Mood Boards & Lexicon
 Mood boards: https://www.notion.so/wevote/Mood-Boards-3ccb09b449264d18af2db3485880ee24
